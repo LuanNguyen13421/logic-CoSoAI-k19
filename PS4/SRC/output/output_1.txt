@@ -1,8 +1,9 @@
-4
+5
 A OR -B
 A OR -C
 A OR B
 -B OR -C
+B
 3
 A
 -B
