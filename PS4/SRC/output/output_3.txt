@@ -8,7 +8,7 @@ D
 A OR -D
 A OR -E
 A OR D OR -E
--C
 C
+-C
 {}
 YES
