@@ -161,8 +161,8 @@ def PL_RESOLUTION(sentence):
 
 # Main
 ROOT_DIR = os.path.dirname(os.path.abspath(__file__))
-ROOT_INPUT = ROOT_DIR + '/input'
-ROOT_OUTPUT=ROOT_DIR + '/output'
+ROOT_INPUT = ROOT_DIR + '/INPUT'
+ROOT_OUTPUT=ROOT_DIR + '/OUTPUT'
 
 for file in os.listdir(ROOT_INPUT):
     file_input = ROOT_INPUT + '/' + file

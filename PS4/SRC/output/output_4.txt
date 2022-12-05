@@ -4,8 +4,8 @@ A OR -B
 B OR -C
 -C OR -D
 4
--A OR -D
 -A OR B OR -D
+-A OR -D
 A OR -C OR -D
 -B OR -D
 2
